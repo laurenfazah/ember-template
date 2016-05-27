@@ -2,7 +2,7 @@
 
 module.exports = function(environment) {
   var ENV = {
-    modulePrefix: 'ga-wdi-boston.ember-template',
+    modulePrefix: 'test-deploy',
     environment: environment,
     baseURL: '/',
     locationType: 'auto',

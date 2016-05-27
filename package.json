@@ -1,7 +1,7 @@
 {
-  "name": "ga-wdi-boston.ember-template",
+  "name": "test-deploy",
   "version": "0.0.0",
-  "description": "Small description for ga-wdi-boston.ember-template goes here",
+  "description": "test-deploy",
   "private": true,
   "directories": {
     "doc": "doc",
